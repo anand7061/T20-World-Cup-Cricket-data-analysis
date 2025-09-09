@@ -42,7 +42,7 @@ The dashboard provides:
 
 
 ## 📌 How to Use  
-1. Open the `dashboard/T20_WorldCup.pbix` file in **Power BI Desktop**.  
+1. Open the `Powerbi_project_ANAND.pbix` file in **Power BI Desktop**.  
 2. Explore different pages (player roles, team analysis, match insights).  
 3. Update the data source if new scraped data is added.  
 
