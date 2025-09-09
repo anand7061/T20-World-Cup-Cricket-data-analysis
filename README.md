@@ -37,7 +37,7 @@ The dashboard provides:
 ✔ Comparison of top-performing batsmen & bowlers  
 
 📸 **Dashboard Preview:**  
-👉 [Attach Screenshot Here](https://github.com/your-username/T20-WorldCup-Analysis/blob/main/dashboard/screenshot.png)  
+👉 [Attach Screenshot Here](https://github.com/anand7061/T20-World-Cup-Cricket-data-analysis/blob/main/Screenshot%202025-09-09%20142914.png)  
 
 *(Replace with your actual screenshot link after uploading to GitHub)*  
 
