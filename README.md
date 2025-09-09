@@ -40,7 +40,6 @@ The dashboard provides:
 ![Dashboard](https://github.com/anand7061/T20-World-Cup-Cricket-data-analysis/blob/main/Screenshot%202025-09-09%20143025.png)  
 ![Dashboard](https://github.com/anand7061/T20-World-Cup-Cricket-data-analysis/blob/main/Screenshot%202025-09-09%20142914.png)  
 
-*(Replace with your actual screenshot link after uploading to GitHub)*  
 
 ## 📌 How to Use  
 1. Open the `dashboard/T20_WorldCup.pbix` file in **Power BI Desktop**.  
